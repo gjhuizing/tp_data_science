@@ -1,5 +1,9 @@
-# TDs et TPs pour le cours Mathematics of Data Science 2022-2023
+# TDs and TPs for the course Mathematics of Data Science 2022-2023
 
-Les TP/TD et corrections seront uploadés au fur et à mesure.
+TP/TD will be uploaded regularly.
 
+**TP 1**
+- PDF of TD (with solutions): `Data_Science_TD1.pdf`
+- Jupyer notebook (with blanks): `tp1.ipynb`
+- Jupyer notebook (with solutions): `tp1_solution.ipynb`
 - [lien Colab vers le TP 1](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp1.ipynb)
