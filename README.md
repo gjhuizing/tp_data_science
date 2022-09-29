@@ -10,6 +10,6 @@ TP/TD will be uploaded regularly.
 
 
 **TP 2**
-- PDF of TD: `Data_Science_TD2.pdf`
+- PDF of TD (with solutions): `Data_Science_TD2.pdf`
 - Jupyer notebook (with blanks): `tp2.ipynb`
 - [Colab link to TP 2](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp2.ipynb)
