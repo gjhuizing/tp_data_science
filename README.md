@@ -25,7 +25,7 @@ TP/TD will be uploaded regularly.
 - [Colab link to TP 3 (with blanks)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp3.ipynb)
 - [Colab link to TP 3 (with solutions)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp3_solution.ipynb)
 
-**TP 4** -- Catching up with last session (+ some extra stuff if you worked on it already)
+**TP 4** -- Catching up with last session (+ some extra stuff if you worked ahead)
 - Last session's exercises: `Data_Science_TD3.pdf`
 - Jupyer notebook (with blanks): `tp4.ipynb`
 - [Colab link to TP 4 (with blanks)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp4.ipynb)
