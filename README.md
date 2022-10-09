@@ -18,14 +18,14 @@ TP/TD will be uploaded regularly.
 - [Colab link to TP 2 (with solutions)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp2_solution.ipynb)
 
 
-**TP 3** -- I was sick, here are the solutions but we'll catch up on Monday anyway
-- PDF of TD (with solutions): `Data_Science_TD3.pdf`
+**TP 3**
+- PDF of TD: `Data_Science_TD3.pdf`
 - Jupyer notebook (with blanks): `tp3.ipynb`
 - Jupyer notebook (with solutions): `tp3_solution.ipynb`
 - [Colab link to TP 3 (with blanks)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp3.ipynb)
 - [Colab link to TP 3 (with solutions)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp3_solution.ipynb)
 
 **TP 4** -- Catching up with last session (+ some extra stuff if you worked ahead)
-- Last session's exercises: `Data_Science_TD3.pdf`
+- PDF of TD: `Data_Science_TD3.pdf`
 - Jupyer notebook (with blanks): `tp4.ipynb`
 - [Colab link to TP 4 (with blanks)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp4.ipynb)
