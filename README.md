@@ -33,6 +33,10 @@ TP/TD will be uploaded regularly.
 - [Colab link to TP 4 (with solutions)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp4_solution.ipynb)
 
 **TP 5**
-- PDF of TD (with solutions): to come
+- PDF of TD (with solutions): `Data_Science_TD5.pdf`
 - Jupyer notebook (with blanks): `tp5.ipynb`
 - [Colab link to TP 5 (with blanks)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp5.ipynb)
+- [Colab link to TP 5 (with solutions)](https://colab.research.google.com/github/gjhuizing/tp_data_science/blob/main/tp5_solution.ipynb)
+
+**TP 6** -- Finishing the coordinate descent, + some inverse problems and OT
+- PDF of TD (with solutions): `Data_Science_TD6.pdf`
